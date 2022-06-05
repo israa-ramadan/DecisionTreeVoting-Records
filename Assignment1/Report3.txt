@@ -1,0 +1,41 @@
+No. Nodes of training sets varies from 30% to 70% 
+Maximum No. Nodes: 39
+Minimum No. Nodes: 23
+Average No. Nodes: 31.8
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
+Maximum No. Nodes: 39
+Minimum No. Nodes: 23
+Average No. Nodes: 31.8
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
+Maximum No. Nodes: 39
+Minimum No. Nodes: 23
+Average No. Nodes: 31.8
+
+Maximum No. Nodes: 39
+Minimum No. Nodes: 23
+Average No. Nodes: 31.8
+
+Maximum No. Nodes: 41
+Minimum No. Nodes: 23
+Average No. Nodes: 32.2
+
